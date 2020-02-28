@@ -1,0 +1,969 @@
+@media only screen and (max-width: 991px) {
+    .footer.homepage-2 {
+        background-position: center center;
+        background-size: cover;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    /* banner */
+    .banner .banner-img {
+        display: none;
+    }
+    .banner .banner-content {
+        padding: 140px 0;
+        text-align: center;
+    }
+    .testimonial .part-img {
+        display: none;
+    }
+    .about {
+        padding-bottom: 90px;
+    }
+    .about .part-img {
+        height: 460px;
+    }
+    .about .about-feature .single-about-feature {
+        margin-bottom: 30px;
+    }
+    .about .about-feature .single-about-feature .part-text p {
+        width: 290px;
+        display: inline-block;
+    }
+
+    /* contact */
+    .contact .address-bar .single-address .part-icon {
+        margin-bottom: 25px;
+        float: none;
+    }
+
+    /* sidebar */
+    .sidebar .single-widget .recent-post .single-post .part-text h3 a {
+        line-height: 26px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+/* header */
+    .header .header-top .support-area {
+        display: none;
+    }
+    .header .header-top .user-control {
+        display: block;
+        float: none;
+        text-align: center;
+    }
+    .navbar-toggler {
+        color: #fff;
+        padding: 0;
+        border: 1px solid #fff;
+        width: 45px;
+        height: 45px;
+        font-size: 25px;
+        float: right;
+        outline: none;
+    }
+    .header .header-bottom {
+        padding: 15px 0;
+        background: #000;
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    .header .header-bottom .mainmenu {
+        float: none;
+        display: block;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item .nav-link {
+        padding: 15px 15px;
+        display: block;
+        background: #020c16;
+        border-bottom: 1px solid #000;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item:first-child .nav-link {
+        margin-top: 15px;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item:last-child .nav-link {
+        border-bottom: none;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+        left: 0;
+        position: initial;
+        opacity: 1;
+        visibility: visible;
+    }
+    /* banner */
+    .banner .banner-content h1 {
+        font-size: 32px;
+    }
+
+    .banner .banner-content h4 {
+        font-size: 24px;
+        margin-top: -6px;
+    }
+
+    .banner .banner-content a {
+        height: 50px;
+        font-size: 16px;
+        line-height: 50px;
+    }
+
+    .banner .banner-img {
+        display: none;
+    }
+
+    .banner .banner-content {
+        margin-top: 0;
+        padding: 120px 0;
+        text-align: center;
+    }
+
+    .header {
+        position: initial;
+        background: #000;
+    }
+
+    /* section-title */
+    .section-title h2 {
+        font-size: 26px;
+        margin-top: -6px;
+    }
+
+    /* how to play */
+    .how-to-play {
+        padding: 120px 0 86px;
+    }
+
+    .how-to-play .single-system .part-icon {
+        height: 60px;
+    }
+
+    .how-to-play .single-system .part-text h3 {
+        font-size: 20px;
+    }
+
+    .how-to-play .single-system {
+        margin-bottom: 30px;
+    }
+
+    .how-to-play .single-system .part-text p {
+        max-width: 290px;
+        display: inline-block;
+    }
+
+    /* play gmae */
+    .play-games .load-more-button {
+        height: 50px;
+        line-height: 50px;
+    }
+
+    /* live casino */
+    .live-casino .single-casino .tag span.bottom {
+        font-size: 18px;
+    }
+
+    /* counter */
+    .counter {
+        padding-bottom: 40px;
+    }
+
+    .counter .single-counter {
+        margin-bottom: 40px;
+        border: 1px solid rgba(253, 92, 94, 0.7);
+        padding: 30px 0;
+    }
+
+    /* testimonial */
+    .testimonial .part-img {
+        display: none;
+    }
+
+    .testimonial .part-text h3 {
+        font-size: 26px;
+        margin-top: -6px;
+    }
+
+    .testimonial .part-text {
+        padding: 0 60px;
+    }
+
+    /* news */
+    .news .single-news .part-text h3 {
+        line-height: 28px;
+    }
+
+    .news .single-news .part-text h3 a {
+        font-size: 18px;
+    }
+
+    .news .single-news .part-meta .single-meta span {
+        font-size: 14px;
+    }
+
+    /* footer */
+    .footer {
+        padding: 120px 0 86px;
+    }
+
+    .footer .about-widget {
+        margin-bottom: 25px;
+    }
+
+    .footer .usefull-link {
+        margin-bottom: 25px;
+    } 
+
+    /* breadcrump */
+    .breadcrump-cosnio .breadcrump-content {
+        margin-top: 0;
+        padding: 60px 0;
+    }
+
+    .breadcrump-cosnio .breadcrump-content h2 {
+        font-size: 28px;
+        margin-top: -7px;
+    }
+
+    /* about */
+    .about {
+        padding-bottom: 90px;
+    }
+
+    .about .part-img {
+        display: none;
+    }
+
+    .about .part-text h3 {
+        font-size: 24px;
+        margin-top: -6px;
+        margin-bottom: 20px;
+    }
+
+    .about .about-feature .single-about-feature {
+        margin-bottom: 30px;
+    }
+
+    .about .about-feature .single-about-feature .part-text p {
+        display: inline-block;
+        max-width: 290px;
+    }
+
+    /* contact */
+    .contact .address-bar .single-address .part-icon {
+        margin-bottom: 25px;
+    }
+
+    .contact .address-bar .single-address {
+        border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    /* header */
+    .header .header-top .support-area {
+        display: none;
+    }
+
+    .header .header-top .user-control {
+        display: block;
+        float: none;
+        text-align: center;
+    }
+
+    .navbar-toggler {
+        color: #fff;
+        padding: 0;
+        border: 1px solid #fff;
+        width: 45px;
+        height: 45px;
+        font-size: 25px;
+        float: right;
+        outline: none;
+    }
+
+    .header .header-bottom {
+        padding: 15px 0;
+        background: #000;
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .header .header-bottom .mainmenu {
+        float: none;
+        display: block;
+    }
+
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item .nav-link {
+        padding: 15px 15px;
+        display: block;
+        background: #020c16;
+        border-bottom: 1px solid #000;
+    }
+
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item:first-child .nav-link {
+        margin-top: 15px;
+    }
+
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item:last-child .nav-link {
+        border-bottom: none;
+    }
+
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+        left: 0;
+        position: initial;
+        opacity: 1;
+        visibility: visible;
+    }
+
+    /* banner */
+    .banner .banner-content h1 {
+        font-size: 32px;
+    }
+
+    .banner .banner-content h4 {
+        font-size: 24px;
+        margin-top: -6px;
+    }
+
+    .banner .banner-content a {
+        height: 50px;
+        font-size: 16px;
+        line-height: 50px;
+    }
+
+    .banner .banner-img {
+        display: none;
+    }
+
+    .banner .banner-content {
+        margin-top: 0;
+        padding: 120px 0;
+    }
+
+    .header {
+        position: initial;
+        background: #000;
+    }
+
+    /* section-title */
+    .section-title h2 {
+        font-size: 26px;
+        margin-top: -6px;
+    }
+
+    /* how to play */
+    .how-to-play {
+        padding: 120px 0 86px;
+    }
+
+    .how-to-play .single-system .part-icon {
+        height: 60px;
+    }
+
+    .how-to-play .single-system .part-text h3 {
+        font-size: 20px;
+    }
+
+    .how-to-play .single-system {
+        margin-bottom: 30px;
+    }
+
+    .how-to-play .single-system .part-text p {
+        max-width: 290px;
+        display: inline-block;
+    }
+
+    /* play gmae */
+    .play-games .load-more-button {
+        height: 50px;
+        line-height: 50px;
+    }
+
+    /* live casino */
+    .live-casino .single-casino .tag span.bottom {
+        font-size: 18px;
+    }
+
+    /* counter */
+    .counter {
+        padding-bottom: 40px;
+    }
+
+    .counter .single-counter {
+        margin-bottom: 40px;
+    }
+
+    /* testimonial */
+    .testimonial .part-img {
+        display: none;
+    }
+
+    .testimonial .part-text h3 {
+        font-size: 26px;
+        margin-top: -6px;
+    }
+
+    .testimonial .part-text {
+        padding: 0 60px;
+    }
+
+    /* news */
+    .news .single-news .part-text h3 {
+        line-height: 28px;
+    }
+
+    .news .single-news .part-text h3 a {
+        font-size: 18px;
+    }
+
+    .news .single-news .part-meta .single-meta span {
+        font-size: 14px;
+    }
+
+    /* footer */
+    .footer {
+        padding: 120px 0 86px;
+    }
+
+    .footer .about-widget {
+        margin-bottom: 25px;
+    }
+
+    .footer .usefull-link {
+        margin-bottom: 25px;
+    }
+
+    /* breadcrump */
+    .breadcrump-cosnio .breadcrump-content {
+        margin-top: 0;
+        padding: 60px 0;
+    }
+
+    .breadcrump-cosnio .breadcrump-content h2 {
+        font-size: 28px;
+        margin-top: -7px;
+    }
+
+    /* about */
+    .about {
+        padding-bottom: 90px;
+    }
+
+    .about .part-img {
+        display: none;
+    }
+
+    .about .part-text h3 {
+        font-size: 24px;
+        margin-top: -6px;
+        margin-bottom: 20px;
+    }
+
+    .about .about-feature .single-about-feature {
+        margin-bottom: 30px;
+    }
+
+    .about .about-feature .single-about-feature .part-text p {
+        display: inline-block;
+        max-width: 290px;
+    }
+
+    /* contact */
+    .contact .address-bar .single-address .part-icon {
+        margin-bottom: 25px;
+    }
+
+    .contact .address-bar .single-address {
+        border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    /* blog details */
+   .news.blog-details .single-news .part-comment .single-comment {
+       padding-right: 30px;
+   }
+
+    .news.blog-details .single-news .part-comment .single-comment .commentor-img {
+        float: none;
+        margin-bottom: 20px;
+        overflow: hidden;
+        border-radius: 5px;
+    }
+
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 575px) {
+    /* header */
+    .header .header-top .support-area {
+        display: none;
+    }
+    .header .header-top .user-control {
+        display: block;
+        float: none;
+        text-align: center;
+    }
+    .navbar-toggler {
+        color: #fff;
+        padding: 0;
+        border: 1px solid #fff;
+        width: 45px;
+        height: 45px;
+        font-size: 25px;
+        float: right;
+        outline: none;
+    }
+    .header .header-bottom {
+        padding: 15px 0;
+        background: #000;
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    .header .header-bottom .mainmenu {
+        float: none;
+        display: block;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item .nav-link {
+        padding: 15px 15px;
+        display: block;
+        background: #020c16;
+        border-bottom: 1px solid #000;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item:first-child .nav-link {
+        margin-top: 15px;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item:last-child .nav-link {
+        border-bottom: none;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+        left: 0;
+        position: initial;
+        opacity: 1;
+        visibility: visible;
+    }
+    /* banner */
+    .banner .banner-content h1 {
+        font-size: 32px;
+    }
+
+    .banner .banner-content h4 {
+        font-size: 24px;
+        margin-top: -6px;
+    }
+
+    .banner .banner-content a {
+        height: 50px;
+        font-size: 16px;
+        line-height: 50px;
+    }
+
+    .banner .banner-img {
+        display: none;
+    }
+
+    .banner .banner-content {
+        margin-top: 0;
+        padding: 120px 0;
+    }
+
+    .header {
+        position: initial;
+        background: #000;
+    }
+
+    /* section-title */
+    .section-title h2 {
+        font-size: 26px;
+        margin-top: -6px;
+    }
+
+    /* how to play */
+    .how-to-play {
+        padding: 120px 0 86px;
+    }
+
+    .how-to-play .single-system .part-icon {
+        height: 60px;
+    }
+
+    .how-to-play .single-system .part-text h3 {
+        font-size: 20px;
+    }
+
+    .how-to-play .single-system {
+        margin-bottom: 30px;
+    }
+
+    .how-to-play .single-system .part-text p {
+        max-width: 290px;
+        display: inline-block;
+    }
+
+    /* play gmae */
+    .play-games .load-more-button {
+        height: 50px;
+        line-height: 50px;
+    }
+
+    /* live casino */
+    .live-casino .single-casino .tag span.bottom {
+        font-size: 18px;
+    }
+
+    /* counter */
+    .counter {
+        padding-bottom: 40px;
+    }
+
+    .counter .single-counter {
+        margin-bottom: 40px;
+    }
+
+    /* testimonial */
+    .testimonial .part-img {
+        display: none;
+    }
+
+    .testimonial .part-text h3 {
+        font-size: 26px;
+        margin-top: -6px;
+    }
+
+    .testimonial .part-text {
+        padding: 0 60px;
+    }
+
+    /* news */
+    .news .single-news .part-text h3 {
+        line-height: 28px;
+    }
+
+    .news .single-news .part-text h3 a {
+        font-size: 18px;
+    }
+
+    .news .single-news .part-meta .single-meta span {
+        font-size: 14px;
+    }
+
+    /* footer */
+    .footer {
+        padding: 120px 0 86px;
+    }
+
+    .footer .about-widget {
+        margin-bottom: 25px;
+    }
+
+    .footer .usefull-link {
+        margin-bottom: 25px;
+    }
+    /* breadcrump */
+    .breadcrump-cosnio .breadcrump-content {
+        margin-top: 0;
+        padding: 60px 0;
+    }
+
+    .breadcrump-cosnio .breadcrump-content h2 {
+        font-size: 28px;
+        margin-top: -7px;
+    }
+
+    /* about */
+    .about {
+        padding-bottom: 90px;
+    }
+
+    .about .part-img {
+        display: none;
+    }
+
+    .about .part-text h3 {
+        font-size: 24px;
+        margin-top: -6px;
+        margin-bottom: 20px;
+    }
+
+    .about .about-feature .single-about-feature {
+        margin-bottom: 30px;
+    }
+
+    .about .about-feature .single-about-feature .part-text p {
+        display: inline-block;
+        max-width: 290px;
+    }
+
+    /* contact */
+    .contact .address-bar .single-address .part-icon {
+        float: none;
+        margin-bottom: 25px;
+    }
+
+    .contact .address-bar .single-address {
+        border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    /* blog details */
+    .news.blog-details .single-news .part-text h3 a {
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    .news.blog-details .single-news .part-comment h3 {
+        font-size: 24px;
+    }
+
+    .news.blog-details .single-news .part-comment .single-comment {
+        padding-right: 30px;
+    }
+
+    .news.blog-details .single-news .part-comment .single-comment .commentor-img {
+        float: none;
+        margin-bottom: 20px;
+        overflow: hidden;
+        border-radius: 5px;
+    }
+
+    .news.blog-details .single-news .comment-box h3 {
+        font-size: 24px;
+    }
+
+    .news.blog-details .single-news .comment-box button {
+        height: 50px;
+    }
+
+    .sidebar .single-widget .recent-post .single-post .part-text h3 a {
+        line-height: 26px;
+    }
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    /* header */
+    .header .header-top .support-area {
+        display: none;
+    }
+    .header .header-top .user-control {
+        display: block;
+        float: none;
+        text-align: center;
+    }
+    .navbar-toggler {
+        color: #fff;
+        padding: 0;
+        border: 1px solid #fff;
+        width: 45px;
+        height: 45px;
+        font-size: 25px;
+        float: right;
+        outline: none;
+    }
+    .header .header-bottom {
+        padding: 15px 0;
+        background: #000;
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    .header .header-bottom .mainmenu {
+        float: none;
+        display: block;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item .nav-link {
+        padding: 15px 15px;
+        display: block;
+        background: #020c16;
+        border-bottom: 1px solid #000;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item:first-child .nav-link {
+        margin-top: 15px;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item:last-child .nav-link {
+        border-bottom: none;
+    }
+    .header .header-bottom .mainmenu .navbar .navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+        left: 0;
+        position: initial;
+        opacity: 1;
+        visibility: visible;
+    }
+
+    /* banner */
+    .banner .banner-content h1 {
+        font-size: 32px;
+    }
+    .banner .banner-content h4 {
+        font-size: 24px;
+        margin-top: -6px;
+    }
+    .banner .banner-content a {
+        height: 50px;
+        font-size: 16px;
+        line-height: 50px;
+    }
+    .banner .banner-img {
+        display: none;
+    }
+    .banner .banner-content {
+        margin-top: 0;
+        padding: 120px 0;
+    }
+    .header {
+        position: initial;
+        background: #000;
+    }
+
+    /* section-title */
+    .section-title h2 {
+        font-size: 26px;
+        margin-top: -6px;
+    }
+
+    /* how to play */
+    .how-to-play {
+        padding: 120px 0 86px;
+    }
+    .how-to-play .single-system .part-icon {
+        height: 60px;
+    }
+    .how-to-play .single-system .part-text h3 {
+        font-size: 20px;
+    }
+    .how-to-play .single-system {
+        margin-bottom: 30px;
+    }
+    .how-to-play .single-system .part-text p {
+        max-width: 290px;
+        display: inline-block;
+    }
+
+    /* play gmae */
+    .play-games .load-more-button {
+        height: 50px;
+        line-height: 50px;
+    }
+
+    /* live casino */
+    .live-casino .single-casino .tag span.bottom {
+        font-size: 18px;
+    }
+
+    /* counter */
+    .counter {
+        padding-bottom: 40px;
+    }
+    .counter .single-counter {
+        margin-bottom: 40px;
+    }
+
+    /* testimonial */
+    .testimonial .part-img {
+        display: none;
+    }
+    .testimonial .part-text h3 {
+        font-size: 26px;
+        margin-top: -6px;
+    }
+    .testimonial .part-text {
+        padding: 0;
+    }
+
+    /* news */
+    .news .single-news .part-text h3 {
+        line-height: 28px;
+    }
+    .news .single-news .part-text h3 a {
+        font-size: 18px;
+    }
+    .news .single-news .part-meta .single-meta span {
+        font-size: 14px;
+    }
+
+    /* footer */
+    .footer {
+        padding: 120px 0 86px;
+    }
+    .footer .about-widget {
+        margin-bottom: 25px;
+    }
+    .footer .usefull-link {
+        margin-bottom: 25px;
+    }
+
+    /* breadcrump */
+    .breadcrump-cosnio .breadcrump-content {
+        margin-top: 0;
+        padding: 60px 0;
+    }
+    .breadcrump-cosnio .breadcrump-content h2 {
+        font-size: 28px;
+        margin-top: -7px;
+    }
+
+    /* about */
+    .about {
+        padding-bottom: 90px;
+    }
+    .about .part-img {
+        display: none;
+    }
+    .about .part-text h3 {
+        font-size: 24px;
+        margin-top: -6px;
+        margin-bottom: 20px;
+    }
+    .about .about-feature .single-about-feature {
+        margin-bottom: 30px;
+    }
+    .about .about-feature .single-about-feature .part-text p {
+        display: inline-block;
+        max-width: 290px;
+    }
+
+    /* faq */
+    .faq #accordion .card .card-header h5 button,
+    .faq #accordion2 .card .card-header h5 button {
+        font-size: 18px;
+        font-weight: 500;
+        white-space: normal;
+        line-height: 28px;
+    }
+    .faq #accordion .card .card-header h5 button:after,
+    .faq #accordion2 .card .card-header h5 button:after {
+        display: none;
+    }
+
+    /* contact */
+    .contact .address-bar .single-address .part-icon {
+        float: none;
+        margin-bottom: 25px;
+    }
+    .contact .address-bar .single-address {
+        border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    /* blog details */
+    .news.blog-details .single-news .part-text h3 a {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .news.blog-details .single-news .part-comment h3 {
+        font-size: 24px;
+    }
+    .news.blog-details .single-news .part-comment .single-comment {
+        padding-right: 30px;
+    }
+    .news.blog-details .single-news .part-comment .single-comment .commentor-img {
+        float: none;
+        margin-bottom: 20px;
+        overflow: hidden;
+        border-radius: 5px;
+    }
+    .news.blog-details .single-news .comment-box h3 {
+        font-size: 24px;
+    }
+    .news.blog-details .single-news .comment-box button {
+        height: 50px;
+    }
+    .sidebar .single-widget .recent-post .single-post .part-text h3 a {
+        line-height: 26px;
+    }
+
+    /* resubmission day */
+    .news .single-news .part-meta .single-meta:last-child {
+        display: none;
+    }
+}
